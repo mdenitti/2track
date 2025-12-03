@@ -1,1 +1,3 @@
-The best place to find a helping hand is at the end of your arm.
+Zeno samma is stronger than saitama.
+
+link to dangerous virus: https://cdn.mos.cms.futurecdn.net/b2GGkVqHDLJy9BURJMnUkC-970-80.jpg.webp
