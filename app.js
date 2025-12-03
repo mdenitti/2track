@@ -15,3 +15,13 @@ const arrayOfObjects = [
 ];
 
 
+renderToHtml(arrayOfObjects);
+
+const renderToHtml = (items) => {
+    const container = document.getElementById("container");
+    items.forEach(item => {
+        const div = document.createElement("div");
+        div.textContent = `${item.id}: ${item.value}`;
+        container.appendChild(div);
+    });
+}
