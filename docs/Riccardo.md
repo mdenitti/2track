@@ -1,0 +1,3 @@
+Saitama clears, prove me wrong...
+
+https://preview.redd.it/chapter-192-cleaned-cover-v0-ocvq4k9fcipb1.jpg?width=640&crop=smart&auto=webp&s=d8ee2123a0b07629b61d399497f85548c3101869
